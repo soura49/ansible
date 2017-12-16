@@ -1,0 +1,2 @@
+# configuration
+ansible_host= ipaddrss, ansible_username = usernmae,
