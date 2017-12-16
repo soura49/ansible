@@ -1,0 +1,4 @@
+---
+--name: installing UCP 
+command : shell command
+shell : commands to excuting
